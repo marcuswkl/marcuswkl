@@ -15,7 +15,7 @@ These are some of the content or materials prepared for workshops:
 
 - **WebLaunch 2020 HTML Workshop by Sunway Tech Club** - HTML
 
-All of the repos can be found in my GitHub.
+All of the repositories can be found in my GitHub.
 
 <!--
 **marcuswkl/marcuswkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
