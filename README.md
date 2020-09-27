@@ -4,16 +4,18 @@ I'm Marcus, a computing student studying in Malaysia.
 
 I love to code and join local tech communities.
 
-These are some of the group projects completed during my course.
+These are some of the group projects completed during my course:
 
 - **E-Commerce Website** - HTML, CSS, JavaScript, PHP, SQL
 - **Ticket Selling System** - Java
 - **F&B Website** - HTML, CSS, JavaScript
 - **Point of Sales System** - C
 
-These are some of the workshop content prepared for Sunway Tech Club.
+These are some of the content or materials prepared for workshops:
 
-- **WebLaunch 2020 HTML Workshop** - HTML
+- **WebLaunch 2020 HTML Workshop by Sunway Tech Club** - HTML
+
+All of the repos can be found in my GitHub.
 
 <!--
 **marcuswkl/marcuswkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
