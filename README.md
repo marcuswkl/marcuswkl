@@ -1,33 +1,31 @@
-### Hi there! 👋
+# Hey there, I'm Marcus 👋
 
-I'm Marcus, a computing student studying in Malaysia.
+## I'm a final year computer science student from Sunway University, Malaysia!
 
-I love to code and join local tech communities.
+- 📚 I’m currently learning software development and machine learning
+- 💻 I enjoy learning and sharing about technologies with others
+- ☕ I also love joining various tech communities in Malaysia
 
-These are some of the group projects completed during my course:
+### Areas of Interest:
 
-- **E-Commerce Website** - HTML, CSS, JavaScript, PHP, SQL
-- **Ticket Selling System** - Java
-- **F&B Website** - HTML, CSS, JavaScript
-- **Point of Sales System** - C
+- Full stack software engineering
+- Artificial intelligence and machine learning
+- Cloud computing and solution architecting
+- Software project management
 
-These are some of the content or materials prepared for workshops:
+### Languages and Tools:
 
-- **WebLaunch 2020 HTML Workshop by Sunway Tech Club** - HTML
+- HTML, CSS, Bootstrap, JavaScript
+- Python, Java
+- Flutter
+- SQL, Oracle
+- AWS
+- Git/GitHub, Figma
 
-All of the repositories can be found in my GitHub.
+### GitHub Stats:
 
-<!--
-**marcuswkl/marcuswkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![marcuswkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuswkl&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Connect with Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="LinkedIn" width="48px" src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" style="padding-right:10px;" />](https://linkedin.com/in/marcuswkl)
