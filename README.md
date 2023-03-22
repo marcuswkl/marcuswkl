@@ -1,24 +1,22 @@
 # Hey there, I'm Marcus 👋
 
-## I'm a final year computer science student from Sunway University, Malaysia!
+### I'm a computer science graduate from Sunway University, Malaysia!
 
-- 📚 I’m currently learning software development and machine learning
+- 🛠 I’m currently looking for software engineering or data science roles
 - 💻 I enjoy learning and sharing about technologies with others
-- ☕ I also love joining various tech communities in Malaysia
+- ☕ I also love joining various tech communities and events in Malaysia
 
 ### Areas of Interest:
 
-- Full stack software engineering
-- Artificial intelligence and machine learning
-- Cloud computing and solution architecting
-- Software project management
+- Full stack/backend software engineering
+- Artificial intelligence/machine learning and data science
 
 ### Languages and Tools:
 
 - HTML, CSS, Bootstrap, JavaScript
 - Python, Java
 - Flutter
-- SQL, Oracle
+- SQL
 - AWS
 - Git/GitHub, Figma
 
