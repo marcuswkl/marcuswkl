@@ -2,7 +2,7 @@
 
 ### I'm a computer science graduate from Sunway University, Malaysia!
 
-- 🛠 I’m currently looking for software engineering or data science roles
+- 🛠 I’m currently looking for software engineering roles
 - 💻 I enjoy learning and sharing about technologies with others
 - ☕ I also love joining various tech communities and events in Malaysia
 
@@ -14,15 +14,9 @@
 ### Languages and Tools:
 
 - HTML, CSS, Bootstrap, JavaScript
-- Python, Java
-- Flutter
 - SQL
-- AWS
-- Git/GitHub, Figma
-
-### GitHub Stats:
-
-[![marcuswkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuswkl&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- Python
+- Git, Figma
 
 ### Connect with Me:
 
