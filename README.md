@@ -13,9 +13,9 @@
 
 ### Languages and Tools:
 
+- Python
 - HTML, CSS, Bootstrap, JavaScript
 - SQL
-- Python
 - Git, Figma
 
 ### Connect with Me:
