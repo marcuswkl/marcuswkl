@@ -1,8 +1,8 @@
 # Hey there, I'm Marcus 👋
 
-### I'm a computer science graduate from Sunway University, Malaysia!
+### I'm a software engineer in Malaysia!
 
-- 🛠 I’m currently looking for software engineering roles
+- 🛠 I’m currently doing full stack software engineering
 - 💻 I enjoy learning and sharing about technologies with others
 - ☕ I also love joining various tech communities and events in Malaysia
 
@@ -13,8 +13,10 @@
 
 ### Languages and Tools:
 
+- HTML, CSS, JavaScript, TypeScript
+- Vue.js, Nuxt.js, NestJS
+- Bootstrap, Tailwind
 - Python
-- HTML, CSS, Bootstrap, JavaScript
 - SQL
 - Git, Figma
 
